@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rmod:block/atherium_block"
+    }
+  }
+}
